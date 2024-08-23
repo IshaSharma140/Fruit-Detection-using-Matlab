@@ -1,3 +1,6 @@
+![Fruit Recognition System](https://github.com/IvanaAckerman/matlab-simulink/blob/cad913eeb9e3c39a90d2c967a6629a4dc1bc68ac/Screenshot%202024-07-18%20201322.png)
+
+
 # Fruit-Recognition
 This project involves implementing a fruit recognition system using MATLAB. The system takes an input image and classifies it as either an Apple, Banana, Guava, or Strawberry by comparing it to a developed dataset using the Minimum Distance Criterion. The HSV color space is utilized, where the Hue and Saturation channels are used to extract average values of various statistical properties. Meanwhile, the Value channel is employed to create a texture map through the Gray Level Co-occurrence Matrix (GLCM), from which several textural properties are derived.
 
