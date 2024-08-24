@@ -1,4 +1,4 @@
-![Fruit Recognition System](https://github.com/IvanaAckerman/matlab-simulink/blob/cad913eeb9e3c39a90d2c967a6629a4dc1bc68ac/Screenshot%202024-07-18%20201322.png)
+![Fruit Recognition System](https://github.com/IshaSharma140/Fruit-Detection-using-Matlab/blob/a187a9553b49340e0c53347c58154514c39682bf/Screenshot%202024-07-18%20201322.png)
 
 
 # Fruit-Recognition
